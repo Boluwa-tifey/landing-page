@@ -1,0 +1,274 @@
+.nav-item{
+    margin-left: 30px!important;
+    font-size: 18px;
+}
+
+nav{
+    background-color: black!important;
+    color: white!important;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+a:hover{
+    text-decoration: none;
+    color:orange;
+}
+
+
+.blog-drop{
+    color: white!important;
+    border-radius: 0px;
+    border: none;
+    border-top: 5px solid orange;
+}
+
+
+
+.drop:hover{
+    color: orange!important;
+    margin-left:5px!important;
+}
+
+.navbar-toggler-icon{
+    border: 2px solid rgb(238, 157, 6);
+}
+
+
+
+.hero-section {
+    background-image: url(../images/h1.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.overlay {
+    position: absolute;
+    height: 600px;
+    padding-left: 70px;
+}
+
+.safe {
+    width: 800px;
+    font-size: 70px;
+}
+
+.buton1 {
+    background-color: #e76113be;
+    border: none;
+    color: white; 
+    text-decoration: none;
+    height: 40px;
+    font-weight: bold;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 0 20px;
+}
+
+.input input{
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: none;
+    font-weight: 400;
+    width: 20em;
+    color: #777777;
+    padding: auto 10px;
+}
+
+.input input::placeholder{
+    padding: auto 30px;
+}
+
+.buton {
+    display: flex;
+}
+
+.order {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+}
+
+
+.flex {
+    display: flex;
+} 
+
+.rw  {
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+
+.our {
+    color: #F15F22;
+}
+
+.what {
+    color: #2c234D;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 50;
+}
+
+.land h2 {
+    color: #2c234D;
+
+}
+
+.rw1 {
+    border: 1px rgb(243, 230, 230) solid;
+    text-align: center; 
+    border-radius: 5px;
+    padding: 40px 20px;
+}
+
+.rw2 {
+    border: 1px rgb(243, 230, 230) solid;
+    text-align: center; 
+    border-radius: 5px;
+    padding: 40px 20px;
+}
+
+.rw3 {
+    border: 1px rgb(243, 230, 230) solid;
+    text-align: center; 
+    border-radius: 5px;
+    padding: 40px 20px;
+}
+
+
+.about h5 {
+    color: #F15F22;
+
+}
+
+.about h3 {
+    color: #2c234D;
+    font-size: 100;
+    width: 400px;
+
+}
+.brook {
+    width: 540px;
+}
+
+.buttonn {
+    background-color:  #F15F22;
+}
+
+
+.top {
+    margin-top: 100px!important;
+}
+
+.overlay2 {
+    height: 1000px;
+    background-image: url(../images/bg02.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.get {
+  color: #F15F22;
+}
+
+.request h3{
+    color: #2c234D;
+
+}
+
+form {
+    border-radius: 5px;
+    padding: 70px;
+}
+
+.form{
+    height: 55px;
+    margin-top: 20px;
+}
+
+
+.extra h5{
+    color: #2c234D!important;
+}
+
+.quote {
+    background-color: #F15F22;
+    border: none!important;
+    width: 100%;
+  }
+
+.we {
+    color: #2c234D;
+}
+
+.team {
+    color: #F15F22;
+}
+
+
+.team11{
+    color: #2c234D;
+    margin-top: -100px;
+    background-color: #ffff;
+    height: 100px;
+    width: 100%;
+    z-index: 100px;
+    position: absolute;
+    opacity: 0.6;
+}
+
+.roww{
+    background-color: #1f0480;
+    height: 500px;
+}
+
+.s {
+    color: #F15F22;
+}
+
+.gallery {
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+}
+
+.flexx {
+    display: flex;
+    
+}
+
+.alwayss{
+    color: #2c234D;
+}
+
+.sep {
+    width: 70px;
+}
+
+.tourist  {
+    display: flex;
+}
+
+.here {
+    width: 300px;
+}
+
+.foot {
+    background-color: #000;
+}
+
+.com {
+    width: 100%;
+}
+
+.display {
+    display: flex;
+    justify-content: space-between;
+}

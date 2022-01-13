@@ -1,0 +1,58 @@
+
+
+@media (min-width: 300px) and (max-width: 650px) {
+
+    .contain {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .hero-section {
+        background-image: url(../images/h1.webp);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 150px;
+    }
+
+    .overlay {
+        position: absolute;
+        height: 150px;
+        padding-left: 10px;
+    }
+
+
+    .safe {
+            width: 60px;
+            font-size: 10px;
+            align-items: center;
+        }
+
+        .buton {
+            margin: 0px;
+        }
+
+        .input input{
+            height: 30px;
+            border-top-left-radius: 2px;
+            border-bottom-left-radius: 2px;
+            border: none;
+            font-weight: 20;
+            width: 10em;
+            padding: auto 5px;
+        }
+    
+        .buton1 {
+            height: 5px;
+            font-weight: bold;
+            padding: 0 5px;
+        }
+        
+        .input input{
+            height: 5px;
+            font-weight: 10;
+            width: 3em;
+            padding: auto 2px;
+        }
+    
+    
+    }
